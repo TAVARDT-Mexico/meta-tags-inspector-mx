@@ -1,4 +1,4 @@
-# Inspector de Meta Tags y Open Graph | TAVARDT Mexico
+# Inspector de Meta Tags y Open Graph
 
 [![Inspector Meta Tags](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/mx/analizador-meta-tags-seo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Para pruebas recurrentes y visualizacion de tarjetas sociales:
 ## Consultoria Especializada en Posicionamiento
 
 Para consultoria integral de SEO tecnico y cumplimiento con Estandares Web y Buenas Practicas SEO, contacte a **TAVARDT Mexico**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
