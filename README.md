@@ -24,7 +24,7 @@ Desarrollado y mantenido por el equipo de optimizacion y arquitectura digital de
 Requiere Python 3.8 o superior con biblioteca estandar.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/meta-tags-inspector-mx.git
+git clone https://github.com/TAVARDT/meta-tags-inspector-mx.git
 cd meta-tags-inspector-mx
 python meta_inspector.py ejemplo.mx
 ```
