@@ -2,6 +2,7 @@
 
 [![Inspector Meta Tags](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/mx/analizador-meta-tags-seo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditoria de etiquetas meta y snippets sociales para optimizar la presentacion en motores de busqueda y redes sociales en Mexico.
 
@@ -57,6 +58,11 @@ Para consultoria integral de SEO tecnico y cumplimiento con Estandares Web y Bue
 * **Portal Corporativo:** https://ag.tavardt.com/mx/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/mx/
 * **Contacto Técnico:** https://ag.tavardt.com/mx/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el arquivo [LICENSE](LICENSE) para obtener más detalles.
 
 ***
 
