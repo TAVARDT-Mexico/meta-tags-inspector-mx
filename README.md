@@ -6,8 +6,6 @@
 
 Auditoria de etiquetas meta y snippets sociales para optimizar la presentacion en motores de busqueda y redes sociales en Mexico.
 
-Desarrollado y mantenido por el equipo de optimizacion y arquitectura digital de **TAVARDT**.
-
 ***
 
 ## Capacidades de Auditoria de Metadatos y Snippets Sociales
@@ -38,15 +36,6 @@ python meta_inspector.py ejemplo.mx -json
 
 ***
 
-## Plataforma Web de Diagnostico
-
-Para pruebas recurrentes y visualizacion de tarjetas sociales:
-
-* **Inspector de Meta Tags Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/mx/)**
-
-***
-
 ## Consultoria Especializada en Posicionamiento
 
 Para consultoria integral de SEO tecnico y cumplimiento con Estandares Web y Buenas Practicas SEO, contacte a **TAVARDT**.
@@ -62,7 +51,7 @@ Para consultoria integral de SEO tecnico y cumplimiento con Estandares Web y Bue
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el arquivo [LICENSE](LICENSE) para obtener más detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
